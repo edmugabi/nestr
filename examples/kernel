@@ -1,0 +1,36 @@
+
+
+Kernel {
+
+  ThreadManager{
+  
+    List {
+    
+      Thread {
+      
+        int id;
+        char name;
+        
+        Context {
+        
+        
+        }
+        
+        
+        
+      
+      }
+    
+    }
+  
+  }
+  
+  IPC {
+  
+  
+  
+  }
+
+
+
+}
