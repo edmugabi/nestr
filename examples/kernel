@@ -13,13 +13,23 @@ Kernel {
         
         Context {
         
+          int sp;
+          int pc;
+          Register {
+          
+          }
+        
         
         }
+      
         
-        
+      bool setId(int id);
+      bool setName(Char name);  
         
       
       }
+      
+    int getCount();  
     
     }
   
