@@ -4,3 +4,6 @@ Nest is an experimental language. It is founded upon a simple principle of nesti
 
 ### Functions
 Its functions are simple can only take in and return simple data types such as int, char etc. these datatypes are stored on the stack. However, methods can read and modify objects of its containing class and other objects that visible  to the containing class.
+
+### Examples
+Check out the examples folder for code snippets of language syntax
